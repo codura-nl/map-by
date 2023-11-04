@@ -3,10 +3,10 @@
   "description": "Convert an array to a map using a key function",
   "version": "0.0.1",
   "author": "Jan Willem Harmelink",
-  "license": "General Public License v3.0",
+  "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blancofoodcoach/content-scaling.git"
+    "url": "git+https://github.com/codura/map-by.git"
   },
   "scripts": {
     "build": "tsc --project tsconfig.json",
