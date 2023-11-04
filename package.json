@@ -6,7 +6,7 @@
   "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codura/map-by.git"
+    "url": "git+https://github.com/codura-nl/map-by.git"
   },
   "scripts": {
     "build": "tsc --project tsconfig.json",
